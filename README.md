@@ -11,4 +11,7 @@ Python, C#, HTML, CSS, JavaScript.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-m-861b97234/)
 
+## Extra
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=<Seu nome do github>&show_icons=true)
+![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=<Seu nome do github>&langs_count=7)
 
