@@ -2,4 +2,4 @@
 
 
 ## About me
-My name is Camila and I'm a student of Systems Analysis and Development.
+My name is Camila and I'm a woman in STEM. :p
